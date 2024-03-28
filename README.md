@@ -1,4 +1,4 @@
-![](assets/images/netryx.png)1
+![](assets/images/netryx.png)
 
 # Hi! 👋
 Welcome to Netryx, advanced java security framework lead by [exploit.org](https://exploit.org) group.
